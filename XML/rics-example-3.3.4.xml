@@ -1054,7 +1054,8 @@
 				</rics:BaseDate>
 			</rics:Period>
 		</rics:Indicator>
-		<rics:Indicator isCurrent="true" framework="CRREM"  category="wholeBuildingEnergyIntensityPathway" type="intensity" subType="netEnergy" item="carbonDioxide" unitOfMeasurement="KWH" denominatorUnitOfMeasurement="MTK" timeUnitOfMeasurement="ANN" description="kWh/m²/yr">
+		<rics:Indicator isCurrent="true" framework="CRREM"  category="wholeBuildingEnergyIntensityPathway" type
+		="intensity" subType="netEnergy" item="carbonDioxide" unitOfMeasurement="KWH" denominatorUnitOfMeasurement="MTK" timeUnitOfMeasurement="ANN" description="kWh/m²/yr">
 			<rics:Decimal>212.7</rics:Decimal>
 			<rics:Period>
 				<rics:BaseDate>

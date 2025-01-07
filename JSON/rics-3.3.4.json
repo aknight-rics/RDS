@@ -1,6 +1,6 @@
 {
 	"$schema": "http://json-schema.org/draft-04/schema#",
-	"additionalProperties": false,
+	"additionalProperties": true,
 	"definitions": {
 		"..ifc:IfcLabel.1": {
 			"additionalProperties": false,

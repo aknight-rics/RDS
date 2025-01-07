@@ -1,0 +1,56 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aknight\\OneDrive - RICS\\Documents\\Data Standard\\Source Code\\Development\\Repos\\aknight-rics\\RDS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\aknight\\OneDrive - RICS\\Documents\\Data Standard\\Source Code\\Development\\Repos\\aknight-rics\\RDS\\JSON\\rics-example-3.3.4.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:JSON\\rics-example-3.3.4.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\aknight\\OneDrive - RICS\\Documents\\Data Standard\\Source Code\\Development\\Repos\\aknight-rics\\RDS\\XML\\rics-3.3.4.xsd||{E997E334-225F-4833-BE59-05AC37E740C2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:XML\\rics-3.3.4.xsd||{E997E334-225F-4833-BE59-05AC37E740C2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "rics-3.3.4.xsd",
+              "DocumentMoniker": "C:\\Users\\aknight\\OneDrive - RICS\\Documents\\Data Standard\\Source Code\\Development\\Repos\\aknight-rics\\RDS\\XML\\rics-3.3.4.xsd",
+              "RelativeDocumentMoniker": "XML\\rics-3.3.4.xsd",
+              "ToolTip": "C:\\Users\\aknight\\OneDrive - RICS\\Documents\\Data Standard\\Source Code\\Development\\Repos\\aknight-rics\\RDS\\XML\\rics-3.3.4.xsd",
+              "RelativeToolTip": "XML\\rics-3.3.4.xsd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
+              "WhenOpened": "2025-01-02T16:04:02.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "rics-example-3.3.4.json",
+              "DocumentMoniker": "C:\\Users\\aknight\\OneDrive - RICS\\Documents\\Data Standard\\Source Code\\Development\\Repos\\aknight-rics\\RDS\\JSON\\rics-example-3.3.4.json",
+              "RelativeDocumentMoniker": "JSON\\rics-example-3.3.4.json",
+              "ToolTip": "C:\\Users\\aknight\\OneDrive - RICS\\Documents\\Data Standard\\Source Code\\Development\\Repos\\aknight-rics\\RDS\\JSON\\rics-example-3.3.4.json",
+              "RelativeToolTip": "JSON\\rics-example-3.3.4.json",
+              "ViewState": "AgIAAGAAAAAAAAAAAIApwHUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-03T14:22:33.763Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

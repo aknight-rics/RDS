@@ -1,4 +1,5 @@
-{
+	{
+	"$schema" :"rics-3.3.4.json",
 	"rics:DataTransfer": {
 		"rics:GeneratedBy": {
 			"@name": "Andrew Knight",
